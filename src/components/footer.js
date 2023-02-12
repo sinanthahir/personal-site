@@ -12,7 +12,7 @@ const Footer = () => {
         <FooterAttribution>
           Made with love by{' '}
           <a href="https://twitter.com/sinanthahir">Sinan Thahir</a>
-          using {' '}
+           using {' '}
           <a href="https://gatsbytemplates.io/theme/glass-gatsby-theme/">Gatsby-Glassmorphism</a>
         </FooterAttribution>
       </FooterWrapper>
