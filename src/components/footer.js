@@ -10,10 +10,8 @@ const Footer = () => {
         <SocialLinks />
 
         <FooterAttribution>
-          Made with love by{' '}
+          2023 © {' '}
           <a href="https://twitter.com/sinanthahir">Sinan Thahir</a>
-           using {' '}
-          <a href="https://gatsbytemplates.io/theme/glass-gatsby-theme/">Gatsby-Glassmorphism</a>
         </FooterAttribution>
       </FooterWrapper>
     </StyledFooter>
