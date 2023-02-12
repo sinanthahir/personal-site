@@ -6,10 +6,10 @@ module.exports = {
       summary: `Self-taught data analyst.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `Jack of all trades`,
+    siteUrl: `https://sinanthahir.netlify.app`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `sinanthahir`,
     },
     socialLinks: [
       {
