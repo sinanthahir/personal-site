@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Sinan Thahir`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Sinan Thahir`,
+      summary: `Self-taught data analyst.`,
     },
     openGraphImage: `open-graph-image.png`,
     description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
@@ -13,16 +13,16 @@ module.exports = {
     },
     socialLinks: [
       {
-        name: "github",
-        url: "https://github.com",
+        name: "instagram",
+        url: "https://instagram.com/sinanthahir",
       },
       {
         name: "twitter",
-        url: "https://twitter.com",
+        url: "https://twitter.com/sinanthahir",
       },
       {
-        name: "instagram",
-        url: "https://instagram.com",
+        name: "linkedin",
+        url: "https://linkedin.com/in/sinanthahir",
       },
     ],
   },
