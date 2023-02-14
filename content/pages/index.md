@@ -3,6 +3,6 @@ template: "index-template"
 title: "Home"
 ---
 
-# Hello World
+# Oh Hey
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+It's just a place to dump my thoughts starting from data, tech, startups to anime and books; a true abyss!
