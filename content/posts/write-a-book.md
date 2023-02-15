@@ -7,7 +7,7 @@ tags: [Writing, Self-work, Passive]
 
 Living in this world with 7.8 Billion others, you hear that number; each individual with there own life story and putting each one’s creativeness forward to paper in your solace; can actually be a relief and thus a new writer is born.
 
-[write](/media/write.jpg)
+![write](/media/write.jpg)
 
 ‘ Writing a book ‘considered as a skill but for me it’s upskilling. Listen, everyone can be a writer. Each one of us have a story to share. In fact, more stories to put forward. But the truth to write these stories, first you need to start write. Here come the prior stepping stones– **Dedication and Passion**.
 
