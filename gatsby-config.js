@@ -6,7 +6,7 @@ module.exports = {
       summary: `Self-taught data analyst.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `Jack of all trades`,
+    description: `A True Abyss! A Place To Dump My Thoughts Starting From Data, Tech, Startups To Anime And Books`,
     siteUrl: `https://sinanthahir.netlify.app`,
     social: {
       twitter: `sinanthahir`,
