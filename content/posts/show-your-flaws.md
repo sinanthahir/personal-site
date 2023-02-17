@@ -2,7 +2,7 @@
 title: Is it okay to show your flaws ?
 date: 2020-09-25
 tags: [Flaws, Self-work, Growth]
-social_image: /media/flwas.png
+social_image: /media/flaws.png
 ---
 
 >When and how, i Fall in Love with My Flaws !
