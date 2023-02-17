@@ -2,7 +2,7 @@
 title: Become a CFD Engineer — Opportunities, Scope & Preparation
 date: 2021-05-06
 tags: [mechanical, engineering, fluid-dynamics]
-social_image: /media/aero-cfd.png.png
+social_image: /media/aero-cfd.png
 ---
 
 In recent years, there has been growing interest by various engineering product companies to perform design simulation studies at different stages of product development to compete in the market. This has consistently resulted in increased requirement of skilled CFD resources and proving to be a very good career opportunity for engineers aspiring to make a career in the interesting domain of heat transfer and fluid flows. However there seems to be a widespread confusion in the student community as to what skills are desired by these industries for a fresher to qualify.
