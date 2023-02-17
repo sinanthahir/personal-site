@@ -2,6 +2,7 @@
 title: You Should Start A Podcast - Effective Content Delivery
 date: 2020-12-14
 tags: [Pasive, tv series]
+social_image: /media/podcast.png
 ---
 
 ![ted-bauer](/media/podcast.png)

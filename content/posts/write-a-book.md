@@ -2,6 +2,7 @@
 title: Write a book - At least one in your lifetime.?
 date: 2020-09-15
 tags: [Writing, Self-work, Passive]
+social_image: /media/write.jpg
 ---
 > You’ll discover who you are; unless you’ve tried it.
 

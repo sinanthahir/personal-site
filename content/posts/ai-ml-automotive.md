@@ -2,6 +2,7 @@
 title: AI and ML - Shaping the New Automotive Era.
 date: 2020-09-17
 tags: [AI, Automotive] 
+social_image: /media/auto/auto01.png
 ---
 
 > “Artificial intelligence living in every vehicle will become our reality before you know it.”

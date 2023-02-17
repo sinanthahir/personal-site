@@ -2,6 +2,7 @@
 title: How Project Aria going to change everyday life - Facebook’s Wearable AR
 date: 2020-09-19
 tags: [Prototype, AR, AI, Innovations]
+social_image: /media/facebook-glasses-prototype.gif
 ---
 
 Facebook’s Full AR glasses are much away from reaching to our hands, but had started there road-test mapping with Cluster of sensors or to particularly say a ‘Sensory array’ debut research device in Seattle and the San Francisco Bay Area. A group of 100 Facebook employees and others getting hands on these, testing and for the thrive for data collection. The company announced the news Wednesday at its virtual [Facebook Connect](https://www.facebookconnect.com/en) conference.
