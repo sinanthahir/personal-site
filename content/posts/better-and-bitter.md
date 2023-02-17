@@ -1,10 +1,7 @@
 ---
-title: Better Decision from Bitter Opinions !
+title: Better Decision from Bitter Opinions!
 date: 2020-09-29
-tags:
-  - growth
-  - self-work
-  - social
+tags: [social, growth, self-work]
 ---
 
 ![www.madebykaran.com](/media/bitter.png)
