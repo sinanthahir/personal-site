@@ -1,7 +1,7 @@
 ---
 title: Experience Analysis through Weather Data - Exploratory Data Analysis
 date: 2021-11-01
-tags: [eda, analysis, visualization]
+tags: [eda, analysis, visualization, projects, documentation]
 social_image: /media/eda/weatherdata.png
 draft: true
 ---

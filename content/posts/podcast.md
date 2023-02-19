@@ -1,7 +1,7 @@
 ---
 title: You Should Start A Podcast - Effective Content Delivery
 date: 2020-12-14
-tags: [Pasive, tv series]
+tags: [Pasive, income]
 social_image: /media/podcast.png
 ---
 

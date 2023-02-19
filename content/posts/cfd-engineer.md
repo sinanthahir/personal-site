@@ -1,7 +1,7 @@
 ---
 title: Become a CFD Engineer — Opportunities, Scope & Preparation
 date: 2021-05-06
-tags: [mechanical, engineering, fluid-dynamics]
+tags: [mechanical, engineering, cfd]
 social_image: /media/aero-cfd.png
 ---
 
