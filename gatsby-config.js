@@ -24,6 +24,10 @@ module.exports = {
         name: "linkedin",
         url: "https://linkedin.com/in/sinanthahir",
       },
+      {
+        name: "behance",
+        url: "https://behance.net/sinanthahir",
+      },
     ],
   },
   plugins: [
